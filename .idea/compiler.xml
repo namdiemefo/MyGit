@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="MyGit.app" target="11" />
+      <module name="MyGit.buildSrc" target="11" />
+      <module name="MyGit.commons" target="11" />
+      <module name="MyGit.core-android.commons" target="11" />
+      <module name="MyGit.core-android.core-profiles" target="11" />
+      <module name="MyGit.core-profiles" target="11" />
+      <module name="MyGit.core-ui" target="11" />
+      <module name="MyGit.data.profiles-remote" target="11" />
+      <module name="MyGit.domain.profiles-domain" target="11" />
+      <module name="MyGit.features.profiles" target="11" />
+      <module name="MyGit.profiles" target="11" />
+      <module name="MyGit.profiles-domain" target="11" />
+      <module name="MyGit.profiles-remote" target="11" />
+      <module name="MyGit.profiles-ui" target="11" />
+      <module name="MyGit.ui.core-ui" target="11" />
+      <module name="MyGit.ui.profiles-ui" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
